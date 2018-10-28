@@ -1,6 +1,6 @@
 # Reversi játék előzetes specifikációi:
----
 
+-
 Mivel még nagyobb projektem sosem volt, nem tudom mennyi nehézségbe fogok ütközni,
 ezért úgy írom a terveket, hogy lehetséges hogy nem mindent fogok belőle tudni megvalósítani,
 de erre fogok törekedni.
@@ -9,7 +9,7 @@ de erre fogok törekedni.
 	
 	- pályaméret megadható legyen
 	- korongok struktúráját megírni
-	- rakható-e adott pozicióba fgvek
+	- rakható-e adott pozicióba fgv-ek
 	- játékmenethez szükséges fgv-ek
 
 - Számítógép, mint ellenfél

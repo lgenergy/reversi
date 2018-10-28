@@ -18,9 +18,9 @@
 *Autópálya nélkül*: Ez esetben bejön a képbe az `m` megkülönböztetõ vektor
 * Esetleg lehet még olyan paraméter, hogy melyik keresztezõdést/várost érintsük az út során
 
-### Kimenet:
+## Kimenet:
 * SDL grafikus programcsomag segítségével látható lesz a teljes gráf
 * A legrövidebb utak megkülönböztetett színûek lesznek
 ---
-**Összegzés:**
-A programban lehet választani, hogy a megadott térképen (gráf) melyik csúcsból melyik csúcsba szeretnénk menni, illetve ki lehet választani az útvonaltervezés szempontját is (legrövidebb/leggyorsabb, autópálya használatával/nem használatával, köztes csúcs érintésével...). Ezek után a térképen látható lesz a kívánt útvonal piros színnel és az út hossza és ideje. Ezt a program BFS vagy DFS és ügyes paraméterezés segítségével oldja meg.
+### Összegzés
+> A programban lehet választani, hogy a megadott térképen (gráf) melyik csúcsból melyik csúcsba szeretnénk menni, illetve ki lehet >választani az útvonaltervezés szempontját is (legrövidebb/leggyorsabb, autópálya használatával/nem használatával, köztes csúcs > >érintésével...). Ezek után a térképen látható lesz a kívánt útvonal piros színnel és az út hossza és ideje. Ezt a program BFS vagy DFS és > ügyes paraméterezés segítségével oldja meg.

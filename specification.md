@@ -1,6 +1,5 @@
 # Reversi játék előzetes specifikációi:
 
--
 Mivel még nagyobb projektem sosem volt, nem tudom mennyi nehézségbe fogok ütközni,
 ezért úgy írom a terveket, hogy lehetséges hogy nem mindent fogok belőle tudni megvalósítani,
 de erre fogok törekedni.

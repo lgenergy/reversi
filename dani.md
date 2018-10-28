@@ -8,7 +8,7 @@
   * Minden úthoz egy `c` költségvektor ami megadja, hogy mennyi idõ alatt lehet megtenni 1 egység távolságotaz adott úton (leggyorsabb út számítása)
   * Ezek a térkép szöveges reprezentációi, ezeket fájlból olvassuk be 
 
-### **Algoritmus**:
+## Algoritmus:
 * A gráfban kell 2 csúcs között irányított utakat megtalálni 
 * Mélységi (DFS) vagy szélességi (BFS) bejárás megtalálja a legrövidebbet, erre tudunk C kódot írni
 * Utak hossza a benne lévõ élek hosszainak az összege 
@@ -18,7 +18,7 @@
 *Autópálya nélkül*: Ez esetben bejön a képbe az `m` megkülönböztetõ vektor
 * Esetleg lehet még olyan paraméter, hogy melyik keresztezõdést/várost érintsük az út során
 
-3. **Kimenet**:
+### Kimenet:
 * SDL grafikus programcsomag segítségével látható lesz a teljes gráf
 * A legrövidebb utak megkülönböztetett színûek lesznek
 ---

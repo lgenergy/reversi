@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 
-# Útvonaltervezõ program el&ocirczetes specifikációi:
+# Útvonaltervezõ program el &ocirc zetes specifikációi:
 ---
 1. **Bemenet**:
   * Térkép egy irányított gráf

@@ -1,14 +1,14 @@
 # Útvonaltervezõ program elõzetes specifikációi:
 ---
 1. **Bemenet**:
-* Térkép egy irányított gráf
-* Gráf csúcsai a keresztezõdések/városok, koordináták a síkon `(x,y)`
-* Gráf élei az utak, szomszédsági mátrixszal adjuk meg õket `A` 
-* Utakhoz egy bináris `m` vektor, ami megmondja, hogy megkülönböztetett-e (néha nem szeretnénk autópályán haladni)
-* Minden úthoz egy `c` költségvektor ami megadja, hogy mennyi idõ alatt lehet megtenni 1 egység távolságotaz adott úton (leggyorsabb út számítása)
-* Ezek a térkép szöveges reprezentációi, ezeket fájlból olvassuk be 
+  * Térkép egy irányított gráf
+  * Gráf csúcsai a keresztezõdések/városok, koordináták a síkon `(x,y)`
+  * Gráf élei az utak, szomszédsági mátrixszal adjuk meg õket `A` 
+  * Utakhoz egy bináris `m` vektor, ami megmondja, hogy megkülönböztetett-e (néha nem szeretnénk autópályán haladni)
+  * Minden úthoz egy `c` költségvektor ami megadja, hogy mennyi idõ alatt lehet megtenni 1 egység távolságotaz adott úton (leggyorsabb út számítása)
+  * Ezek a térkép szöveges reprezentációi, ezeket fájlból olvassuk be 
 
-2. **Algoritmus**:
+### **Algoritmus**:
 * A gráfban kell 2 csúcs között irányított utakat megtalálni 
 * Mélységi (DFS) vagy szélességi (BFS) bejárás megtalálja a legrövidebbet, erre tudunk C kódot írni
 * Utak hossza a benne lévõ élek hosszainak az összege 

@@ -1,3 +1,5 @@
+<meta charset="ISO-8859-1">
+
 # Útvonaltervezõ program elõzetes specifikációi:
 ---
 1. **Bemenet**:

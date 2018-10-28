@@ -1,4 +1,4 @@
-<meta charset="UTF8">
+<meta charset="UTF-8">
 
 # Útvonaltervezõ program elõzetes specifikációi:
 ---
